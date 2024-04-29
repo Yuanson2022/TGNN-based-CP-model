@@ -1,7 +1,8 @@
 # Code and data for the TGNN-based model
 #  --------------------------------------------------------
 This dataset and codes are attached to the article:
-A temporal graph neural network for cross-scale modelling of polycrystals considering microstructure interaction
+"A temporal graph neural network for cross-scale modelling of polycrystals considering microstructure interaction"
+
 If you use the dataset or codes, please cite them.
 #  --------------------------------------------------------
 Author: Yuanzhe, Hu.
