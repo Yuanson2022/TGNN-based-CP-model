@@ -27,4 +27,4 @@ Contents details:
 (1) It contains two strain paths for four loading cases, i.e., tension, compression, cyclic loading and arbitrary loading.  
 (2) The data is organized as a four-dimensional tensor in the shape of [path_num, node_num, seqential_length, featrue_dimension].  
 (3) This work assumes 100 grains in the RVE, and the 101 data in node_num records the homogenized response.  
-(4) The feature dimension has 15 variables: 1-3 Euler angles for each grain; 4-9 Cauthy stress components; 10-15 accumulated strain 
+(4) The feature dimension has 15 variables: 1-3 Euler angles for each grain; 4-9 Cauthy stress components; 10-15 accumulated strain. 
