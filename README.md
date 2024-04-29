@@ -11,8 +11,8 @@ Affiliation: State Key Laboratory of Mechanical Systems and Vibration, Shanghai 
 #  --------------------------------------------------------
 Code availability  
 "Code" folder:  
-GNN_LMSC_model.py: Neural network architecture of the TGNN-based model implemented by Pytorch Geometric   	
- -Input Data structure:
+GNN_LMSC_model.py: Neural network architecture of the TGNN-based model implemented by Pytorch Geometric  
+ -Input Data structure:  
 	1. x: input strain increment to RVE  
 	2. edge_index: grain connections in the format of adjacency list  
 	3. init_ori: initial grain orientations [grain_number, 3]  
